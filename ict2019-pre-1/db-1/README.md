@@ -8,8 +8,13 @@
 - MySQL
 - MariaDB
 - ストアドプロシージャ
+
+
 # 参考になりそうな情報
 - https://www.w3schools.com/sql/sql_stored_procedures.asp W3schoolのSQL Stored Procedures
+- https://github.com/rxin/db-readings Awesome Database
+- https://dev.mysql.com/doc/refman/5.6/ja/introduction.html SQL Document
+
 # どう手を動かしたらいいか
 - 様々な機能が他にもあるよ、とあるので、データベーススペシャリストみたいなものを学ぶ必要があるかもしれない。
 - SQLを学ぶ必要がある。
