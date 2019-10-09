@@ -11,9 +11,9 @@
 - IPアドレス
 
 ## 参考になりそうな資料
-- https://docs.docker.com/engine/reference/builder/ 公式Docker reference
-- https://qiita.com/minamijoyo/items/711704e85b45ff5d6405 Docker MultiStage Build
+- https://www.higebu.com/blog/2014/12/01/vyos-overview/#.XZxjoEb7ReU / VyOSとは
+- https://wa3.i-3-i.info/word1959.html / DHCPとは
 
 ## どう手を動かしたらいいか
-- そもそもDockerをよく知らないのでMultiでイメージサイズ削減と言われても嬉しさが分からない
-- とりあえず何か作ってみるか 小さくはgolangのDockerから、大きくしてSQLとの連携とか
+- VyOSはネットワーク機器のような操作感があるらしい。（ Junos ライクなコマンドと設定ファイル  ）
+- DHCPとはIPアドレスを自動で割り当ててくれる仕組みらしい。Pのプロトコルの意味を調べ始めると沼にはまる。
